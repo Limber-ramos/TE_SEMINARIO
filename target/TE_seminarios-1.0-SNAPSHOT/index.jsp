@@ -18,7 +18,7 @@
                 <th>SEGUNDO PARCIAL TEM-742</th>
             </tr> 
             <tr>
-                <th>NOMBRE: LEIDY CALLE CHAMBI</th>
+                <th>NOMBRE: LIMBER RAMOS CHALCO</th>
             </tr>
             <tr>
                 <th>CI: 9116456</th>
